@@ -1,0 +1,5 @@
+<view class = "index">
+    <view class='head'>
+        <view class='title'>小程序组件练习</view>
+    </view>
+</view>
